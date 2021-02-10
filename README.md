@@ -1,6 +1,6 @@
 # Load Images and Video using OPEN CV in Google Colab
 
-##Welcome to the basics of OPENCV with Google Colab
+## Welcome to the basics of OPENCV with Google Colab
 
 ## Hi, I am Ankit Verma, graduate student at CU ICAR. This repository enables you load images and video in Google Colab
 
@@ -16,6 +16,8 @@
 ## Link to the GoogleColab Notebook
 https://colab.research.google.com/drive/1eQTx_j_anfJ8GjNFAjtu102btUkHRZNz?usp=sharing
 
+
+## Demo
 - Loading Image in Google Colab  <br />
 ![Visualizing](https://github.com/ankitcivic/OpenCV_load_in_GoogleColab/blob/main/samples/image_working.PNG?raw=true)
 
