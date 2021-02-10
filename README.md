@@ -16,11 +16,11 @@
 ## Link to the GoogleColab Notebook
 https://colab.research.google.com/drive/1eQTx_j_anfJ8GjNFAjtu102btUkHRZNz?usp=sharing
 
-- Loading Image in Google Colab
+- Loading Image in Google Colab  <br />
 ![Visualizing](https://github.com/ankitcivic/OpenCV_load_in_GoogleColab/blob/main/samples/image_working.PNG?raw=true)
 
-- Loading Video in Google Colab
+- Loading Video in Google Colab  <br />
 ![Visualizing](https://github.com/ankitcivic/OpenCV_load_in_GoogleColab/blob/main/samples/video_gif.gif?raw=true)
 
-- Streaming live Video in Google Colab
+- Streaming live Video in Google Colab  <br />
 ![Visualizing](https://github.com/ankitcivic/OpenCV_load_in_GoogleColab/blob/main/samples/video_live.gif?raw=true)
